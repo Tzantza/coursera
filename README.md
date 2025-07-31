@@ -47,6 +47,7 @@ In this project, I:
 - And transformed raw web data into a dataset ready for analysis.
 
 [**View the Web Scraping Project**](https://github.com/Tzantza/coursera/blob/main/webscraping-final-project-v2.ipynb)
+
 ---
 
 *Thanks for reading!*
