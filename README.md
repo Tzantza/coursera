@@ -26,7 +26,7 @@ To showcase my practical development as a **Data Analyst**, applying what I lear
 
 I have also worked on a **Machine Learning** project that demonstrates my ability to implement predictive models, model evaluation, and tuning. Check out the project below:
 
-[**Link to the ML Project**]([#](https://github.com/Tzantza/coursera/blob/main/Practice_project_insurance.ipynb))
+[**Link to the ML Project**](https://github.com/Tzantza/coursera/blob/main/Practice_project_insurance.ipynb)
 
 ---
 
