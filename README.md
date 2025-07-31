@@ -36,8 +36,17 @@ In this project, I demonstrated my ability to:
 - Extract, clean, and transform data from relational databases,
 - And generate meaningful insights to support data-driven decisions.
 
-[**View the SQL Exam Project**](#)
+[**View the SQL Exam Project**](https://github.com/Tzantza/coursera/blob/main/sql-final-project-v2.ipynb)
 
+I also developed a **Web Scraping project**, where I built a custom Python **spider bot** to automatically extract structured data from websites.  
+
+In this project, I:
+- Designed a scraping pipeline using `requests` and `BeautifulSoup`,
+- Handled dynamic content and pagination,
+- Stored the scraped data in a clean, reusable format,
+- And transformed raw web data into a dataset ready for analysis.
+
+[**View the Web Scraping Project**](#)
 ---
 
 *Thanks for reading!*
